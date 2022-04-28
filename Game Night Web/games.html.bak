@@ -25,7 +25,7 @@
 			    <ul>
                 	<li><a href="cardgames.html">Card & Board Games</a></li>
                 	<li><a href="tabletop.html">Tabletop Games</a></li>
-                	<li><a href="videogame.html">Video Games</a></li>
+                	<li><a href="videogames.html">Video Games</a></li>
             	</ul>
 			</li>
         	<li><input type="text" placeholder="Search Games"/></li>

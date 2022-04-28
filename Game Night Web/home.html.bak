@@ -8,7 +8,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Mike's Game Night</title>
-	<link rel="stylesheet" href="styles/main.css">
+	<link rel="stylesheet" href="styles/home.css">
 </head>
 
 <body>
@@ -23,9 +23,9 @@
         	<li><a href="about.html">About Me</a></li>
         	<li><a href="games.html">Games</a>
 			    <ul>
-                	<li><a href="#">Card & Board Games</a></li>
-                	<li><a href="#">Tabletop Games</a></li>
-                	<li><a href="#">Video Games</a></li>
+                	<li><a href="cardgames.html">Card & Board Games</a></li>
+                	<li><a href="tabletop.html">Tabletop Games</a></li>
+                	<li><a href="videogames.html">Video Games</a></li>
             	</ul>
 			</li>
         	<li><input type="text" placeholder="Search Games"/></li>

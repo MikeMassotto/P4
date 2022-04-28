@@ -54,6 +54,24 @@ header h1{
     display: block;
 }
 
+/*main styles*/
+h2{
+	text-align: center;
+	color: #800000;
+}
+
+article{
+	float: left;
+	width: 50%;
+	padding: 0% 6% 2%;
+}
+
+/*contact styles*/
+#contact aside{
+	width: 50%;
+	float: right;
+}
+
 /*footer styles*/
 footer {
 	background-color: #800000;
