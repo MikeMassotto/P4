@@ -21,11 +21,11 @@
     	<ul>
         	<li><a href="home.html">Home</a></li>
         	<li><a href="about.html">About Me</a></li>
-        	<li><a href="games.html" class="current">Games</a>
+        	<li><a href="games.html">Games</a>
 			    <ul>
                 	<li><a href="cardgames.html">Card & Board Games</a></li>
                 	<li><a href="tabletop.html">Tabletop Games</a></li>
-                	<li><a href="videogame.html">Video Games</a></li>
+                	<li><a href="videogames.html" class="current">Video Games</a></li>
             	</ul>
 			</li>
         	<li><input type="text" placeholder="Search Games"/></li>
@@ -34,22 +34,8 @@
 	
 	<main id="cards">
 	
-		<h1>All Games</h1>
-		<ul>
-			<li>
-				<div class="card-head">
-					<h3 class="card-title">Boss Monster</h3>
-					<img class="card-img" src="img/Boss Monster.jpeg" alt="Boss Monster">
-					<a href="#" class="card-btn">See Profile</a>
-				</div>
-			</li>
-			<li>
-				<div class="card-head">
-					<h3 class="card-title">Dread</h3>
-					<img class="card-img" src="img/Dread.jpeg" alt="Dread">
-					<a href="#" class="card-btn">See Profile</a>
-				</div>
-			</li>		
+		<h1>Video Games</h1>
+		<ul>	
 			<li>
 				<div class="card-head">
 					<h3 class="card-title">Dominion</h3>

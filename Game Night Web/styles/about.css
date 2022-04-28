@@ -54,45 +54,6 @@ header h1{
     display: block;
 }
 
-/*main styles*/
-
-main h1{
-	text-align: center;
-	color: #800000;
-}
-
-/*card styles*/
-
-#cards ul{
-	list-style-type: none;
-}
-
-#cards ul .card-head {
-	float: left;
-	width: 18%;
-	margin: 1% 2%;
-	padding: 1%;
-	border: solid;
-	border-color: #800000;
-}
-#cards .card-title{
-	text-align: center;
-	background-color: #800000;
-	color: white;
-	padding: 6%;
-}
-#cards .card-img{
-	width: 100%;
-	min-width: 2em;
-}
-#cards .card-btn{
-	text-align: center;
-	background-color: #800000;
-	color: white;
-	padding: 2%;
-	display: block;
-}
-
 /*footer styles*/
 footer {
 	background-color: #800000;
